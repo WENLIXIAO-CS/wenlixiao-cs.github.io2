@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FedL | Wenli Xiao</title>
+    <link>https://example.com/tag/fedl/</link>
+      <atom:link href="https://example.com/tag/fedl/index.xml" rel="self" type="application/rss+xml" />
+    <description>FedL</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_huaadc0b9988f8a44652525fbcea44485c_57952_512x512_fill_lanczos_center_3.png</url>
+      <title>FedL</title>
+      <link>https://example.com/tag/fedl/</link>
+    </image>
+    
+    <item>
+      <title>Federated Learning demonstration platform</title>
+      <link>https://example.com/project/fed_iot_demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/fed_iot_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning for IoT platform</title>
+      <link>https://example.com/project/fed_iot_sci/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/fed_iot_sci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
