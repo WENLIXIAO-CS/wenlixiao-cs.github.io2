@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Writing a demo paper for top conference</title>
-      <link>https://example.com/post/how-to-write-demo-paper/</link>
+      <title>Paper writing</title>
+      <link>https://example.com/post_bak/how-to-write-demo-paper/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/how-to-write-demo-paper/</guid>
+      <guid>https://example.com/post_bak/how-to-write-demo-paper/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

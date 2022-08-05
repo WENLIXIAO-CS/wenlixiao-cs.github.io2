@@ -34,9 +34,9 @@
     
     <item>
       <title>Better logging your experiment</title>
-      <link>https://example.com/post/better-log-experiments/</link>
+      <link>https://example.com/post_bak/better-log-experiments/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/better-log-experiments/</guid>
+      <guid>https://example.com/post_bak/better-log-experiments/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Build your research profile in 5 minutes (Wowchemy &amp; Github)</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://example.com/post_bak/getting-started/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://example.com/post_bak/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -210,10 +210,10 @@
     </item>
     
     <item>
-      <title>Writing a demo paper for top conference</title>
-      <link>https://example.com/post/how-to-write-demo-paper/</link>
+      <title>Paper writing</title>
+      <link>https://example.com/post_bak/how-to-write-demo-paper/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/how-to-write-demo-paper/</guid>
+      <guid>https://example.com/post_bak/how-to-write-demo-paper/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -488,6 +488,30 @@ $$&lt;/p&gt;
       <link>https://example.com/project/fed_iot_sci/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/fed_iot_sci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIPS Assembler and Simulator</title>
+      <link>https://example.com/project/assembler/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/assembler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIPS Pipe-lined CPU Hardware Design</title>
+      <link>https://example.com/project/cpu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rendering Video from DJI Tello Drone</title>
+      <link>https://example.com/project/dji_drone/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/dji_drone/</guid>
       <description></description>
     </item>
     
