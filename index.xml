@@ -310,6 +310,30 @@
     </item>
     
     <item>
+      <title>Tackling Safe and Efficient Multi-agent Reinforcement Learning via Dynamic Shielding</title>
+      <link>https://example.com/publication/safe_marl/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/safe_marl/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling</title>
       <link>https://example.com/publication/adaptive_sampling/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
